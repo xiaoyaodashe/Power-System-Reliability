@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jan 17 17:05:28 2019
-
+xiaoyaodashe@outlook.com
+yao.xiao.1@stonybrook.edu
 @author: xiaoy
 """
 from Reliability_Func import *
