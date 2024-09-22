@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jan 17 16:15:59 2019
-
+xiaoyaodashe@outlook.com
+yao.xiao.1@stonybrook.edu
 @author: xiaoy
 """
 def Outage_schedule(C,q,r,delta_x):
